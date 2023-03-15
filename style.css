@@ -20,7 +20,7 @@ h1 {
 
 .box {
   position: absolute;  
-  background-color: rgb(139, 64, 64);  
+  background-color: rgba(131, 45, 45, 0.918);  
   top: 10%;
   left: 38%;
   padding: 10px;
